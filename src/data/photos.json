@@ -1,0 +1,29 @@
+{
+    "photos": [
+      {
+        "id": 1,
+        "image": "https://picsum.photos/400/300?random=1",
+        "title": "Scenic Mountain View",
+        "comments": [
+          {
+            "id": 1,
+            "text": "Beautiful shot!",
+            "user": "John Doe"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "image": "https://picsum.photos/400/300?random=2",
+        "title": "Ocean Sunset",
+        "comments": [
+          {
+            "id": 1,
+            "text": "Amazing colors!",
+            "user": "Jane Smith"
+          }
+        ]
+      }
+    ]
+  }
+  
