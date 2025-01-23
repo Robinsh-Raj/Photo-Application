@@ -1,9 +1,9 @@
 # Photo Sharing Application 📸
 A modern React-based photo sharing platform with real-time interactions and Google authentication.
-A demonstration server: https://photo-application.vercel.app/
+- A demonstration server: https://photo-application.vercel.app/
 
 # Screenshot
-!(https://github.com/Robinsh-Raj/Photo-Application/blob/main/Screenshot%20(191).png)
+<img src = "https://github.com/Robinsh-Raj/Photo-Application/blob/main/Screenshot%20(191).png" alt="first"> 
 
 
 # 🌟 Features
@@ -57,27 +57,6 @@ A demonstration server: https://photo-application.vercel.app/
 - Connect your GitHub repository
 - Configure environment variables
 - Deploy
-
-# 📂 Project Structure
-
-my-react-app/
-├── public/
-│   ├── index.html
-├── src/
-│   ├── components/
-│   │   ├── CommentSection.js
-│   │   ├── HomeScreen.js
-│   │   ├── LoginScreen.js
-│   │   ├── PhotoDetail.js
-│   │   ├── SplashScreen.js
-│   │   ├── TrendingScreen.js
-│   │   └── AddSection.js
-│   ├── data/
-│   │   └── photos.json
-│   ├── App.js
-│   ├── index.js
-│   └── App.css
-└── package.json
 
 # 👨‍💻 Developer
 ~ Robinsh Raj
