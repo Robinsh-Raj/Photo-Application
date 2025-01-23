@@ -1,9 +1,12 @@
 # Photo Sharing Application 📸
 A modern React-based photo sharing platform with real-time interactions and Google authentication.
+A demonstration server: https://photo-application.vercel.app/
+
+# Screenshot
 
 
 
-#🌟 Features
+# 🌟 Features
 - Google OAuth Authentication
 - Real-time Photo Updates
 - Interactive Comment System
