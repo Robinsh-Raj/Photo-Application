@@ -1,71 +1,82 @@
-#Photo Sharing Application 📸
+# Photo Sharing Application 📸
 A modern React-based photo sharing platform with real-time interactions and Google authentication.
 
+
+
 #🌟 Features
-Google OAuth Authentication
-Real-time Photo Updates
-Interactive Comment System
-Responsive Design
-Trending Photos Section
-Seamless Image Upload
-Social Interactions
+- Google OAuth Authentication
+- Real-time Photo Updates
+- Interactive Comment System
+- Responsive Design
+- Trending Photos Section
+- Seamless Image Upload
+- Social Interactions
 
-#🚀 Live Demo
-View Live Application
+# 🚀 Live Demo
+- View Live Application
 
-#🛠️ Technologies Used
-React.js
-Firebase
-Vercel
-Google OAuth
-CSS3
+# 🛠️ Technologies Used
+- React.js
+- Vercel
+- Google OAuth
+- CSS3
 
-#⚙️ Installation & Setup
-Clone the repository
-Install dependencies
-cd photo-application
-npm install
-Start development server
-npm start
-#📱 Usage
-Sign in using Google Authentication
-Browse trending photos
-Upload your photos
-Add comments and interact with other users
-View your profile and manage uploads
+# ⚙️ Installation & Setup
+- Clone the repository
+- Install dependencies
+- cd photo-application
+  npm install
+- Start development server
+  npm start
+# 📱 Usage
+- Sign in using Google Authentication
+- Browse trending photos
+- Upload your photos
+- Add comments and interact with other users
+- View your profile and manage uploads
 
-#🔑 Google OAuth Setup
-Go to Google Cloud Console
-Create new project/Select existing project
-Navigate to APIs & Services > Credentials
-Create OAuth 2.0 Client ID
-Add authorized URIs:
-http://localhost:3000
-http://localhost:3000/auth/google/callback
-https://your-production-url.com
-https://your-production-url.com/auth/google/callback
-Add JavaScript Origins:
-http://localhost:3000
-https://your-production-url.com
+# 🔑 Google OAuth Setup
+- Go to Google Cloud Console
+- Create new project/Select existing project
+- Navigate to APIs & Services > Credentials
+- Create OAuth 2.0 Client ID
+- Add authorized URIs:
+  http://localhost:3000
+  http://localhost:3000/auth/google/callback
+  https://your-production-url.com
+  https://your-production-url.com/auth/google/callback
+- Add JavaScript Origins:
+  http://localhost:3000
+  https://your-production-url.com
 
-#🚀 Deployment
-Create account on Vercel
-Connect your GitHub repository
-Configure environment variables
-Deploy
+# 🚀 Deployment
+- Create account on Vercel
+- Connect your GitHub repository
+- Configure environment variables
+- Deploy
 
-#📂 Project Structure
-src/
-├── components/
-│   ├── Auth/
-│   ├── Home/
-│   ├── Photos/
-│   └── Comments/
-├── services/
-├── styles/
-└── App.js
+# 📂 Project Structure
 
-👨‍💻 Developer
-Robinsh Raj
+my-react-app/
+├── public/
+│   ├── index.html
+├── src/
+│   ├── components/
+│   │   ├── CommentSection.js
+│   │   ├── HomeScreen.js
+│   │   ├── LoginScreen.js
+│   │   ├── PhotoDetail.js
+│   │   ├── SplashScreen.js
+│   │   ├── TrendingScreen.js
+│   │   └── AddSection.js
+│   ├── data/
+│   │   └── photos.json
+│   ├── App.js
+│   ├── index.js
+│   └── App.css
+└── package.json
+
+# 👨‍💻 Developer
+~ Robinsh Raj
 
 Made with ❤️ and React
