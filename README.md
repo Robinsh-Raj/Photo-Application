@@ -47,13 +47,17 @@ A modern React-based photo sharing platform with real-time interactions and Goog
 - Navigate to APIs & Services > Credentials
 - Create OAuth 2.0 Client ID
 - Add authorized URIs:
+  ```bash
   http://localhost:3000
   http://localhost:3000/auth/google/callback
   https://your-production-url.com
   https://your-production-url.com/auth/google/callback
+  ```
 - Add JavaScript Origins:
+  ```bash
   http://localhost:3000
   https://your-production-url.com
+  ```
 
 # 🚀 Deployment
 - Create account on Vercel
