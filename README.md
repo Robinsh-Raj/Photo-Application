@@ -27,7 +27,9 @@ A modern React-based photo sharing platform with real-time interactions and Goog
 - Clone the repository
 - Install dependencies
 - cd photo-application
+  ```bash
   npm install
+  ```
 - Start development server
   npm start
 # 📱 Usage
