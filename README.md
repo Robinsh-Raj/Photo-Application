@@ -26,12 +26,14 @@ A modern React-based photo sharing platform with real-time interactions and Goog
 # ⚙️ Installation & Setup
 - Clone the repository
 - Install dependencies
-- cd photo-application
   ```bash
+  cd photo-application
   npm install
   ```
 - Start development server
+  ```bash
   npm start
+  ```
 # 📱 Usage
 - Sign in using Google Authentication
 - Browse trending photos
