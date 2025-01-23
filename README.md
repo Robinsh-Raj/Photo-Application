@@ -1,6 +1,5 @@
 # Photo Sharing Application 📸
 A modern React-based photo sharing platform with real-time interactions and Google authentication.
-- A demonstration server: https://photo-application.vercel.app/
 
 # Screenshot
 <img src = "https://github.com/Robinsh-Raj/Photo-Application/blob/main/Screenshot%20(191).png" alt="first"> 
@@ -16,7 +15,7 @@ A modern React-based photo sharing platform with real-time interactions and Goog
 - Social Interactions
 
 # 🚀 Live Demo
-- View Live Application
+- View Live Application: https://photo-application.vercel.app/
 
 # 🛠️ Technologies Used
 - React.js
